@@ -775,7 +775,7 @@ html {
 body {
   font-family: 'Lato', sans-serif;
   color: #515151;
-  background-color: #fbfbfb;
+  background-color: #222831;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -805,7 +805,7 @@ blockquote {
   padding-left: 1.1rem;
   margin-left: 1rem;
   font-style: italic;
-  color: #ada8a8;
+  color: #c1a57b;
 }
 
 pre {
@@ -933,7 +933,9 @@ table tfoot td {
   width: 240px;
   height: 100%;
   padding: 20px 10px;
-  background-color: #ffffff;
+  background-color: #222831;
+  border-color: #30475e;
+  
 }
 
 .about {
@@ -975,7 +977,7 @@ table tfoot td {
   padding-bottom: 15px;
   font-size: 16px;
   text-transform: uppercase;
-  color: #333030;
+  color: #c1a57b;
   font-weight: 700;
 }
 
@@ -998,6 +1000,7 @@ table tfoot td {
 .about p {
   font-size: 16px;
   margin: 0 0 10px;
+  color: #c1a57b;
 }
 
 .content-box {
@@ -1023,7 +1026,7 @@ table tfoot td {
 
 .contact .contact-title {
   position: relative;
-  color: #333030;
+  color: #c1a57b;
   font-weight: 400;
   font-size: 12px;
   margin: 0 0 5px;
@@ -1078,7 +1081,7 @@ table tfoot td {
 }
 
 .contact ul li a {
-  color: #515151;
+  color: #c1a57b;
   display: block;
   padding: 5px;
   font-size: 18px;
@@ -1088,7 +1091,7 @@ table tfoot td {
 }
 
 .contact ul li a:hover {
-  color: #333030;
+  color: #c1a57b;
   -webkit-transform: scale(1.2);
       -ms-transform: scale(1.2);
           transform: scale(1.2);
@@ -1098,6 +1101,7 @@ footer .copyright {
   font-size: 14px;
   text-align: center;
   margin: 0;
+  color: #c1a57b;
 }
 
 .post {
@@ -1126,6 +1130,7 @@ footer .copyright {
   transition: all .3s ease;
   -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
           box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
+  background-color: #ececec;
 }
 
 .post:hover {
@@ -1165,6 +1170,7 @@ footer .copyright {
   font-family: 'PT Serif', serif;
   text-decoration: none;
   color: #263959;
+  background-color: #ececec;
 }
 
 .post .post-content p {
@@ -1277,7 +1283,7 @@ a.newer-posts:hover {
   border: 1px solid #ecf0f1;
   padding: 5px 10px;
   margin-left: 5px;
-  color: #263959;
+  color: #c1a57b;
   font-size: 12px;
   -webkit-transition: background-color .3s;
   -o-transition: background-color .3s;
@@ -1297,7 +1303,7 @@ a.newer-posts:hover {
   font-size: 10px;
   padding: 5px 10px;
   margin-left: 5px;
-  color: #263959;
+  color: #c1a57b;
   text-transform: uppercase;
   border: 1px solid #263959;
 }
