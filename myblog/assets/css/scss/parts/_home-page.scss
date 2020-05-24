@@ -66,6 +66,7 @@
   flex-direction: row;
   flex-wrap: wrap;
   align-items: stretch;
+  background-color: #30475e;
 }
 
 .contact {
@@ -86,7 +87,7 @@
       position: absolute;
       top: 50%;
       left: 0;
-      background-color: $body-color;
+      background-color: #30475e;
     }
     &::after {
       content: "";
@@ -97,7 +98,7 @@
       position: absolute;
       top: 50%;
       right: 0;
-      background-color: $body-color;
+      background-color: #30475e;
     }
   }
   ul {
