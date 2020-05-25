@@ -7,7 +7,7 @@ img: metodo_linguas.jpeg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
-continuação de: artigo
+Continuação de: artigo
 
 Quando passei um tempo no Egito tive contato com a língua árabe pela primeira vez e me encantei. Decidi que queria aprender essa língua. EU QUE LUTE! Uma língua com sons que eu nunca escutei, alfabeto totalmente diferente, escrita da direita para a esquerda, tudo! Tudo diferente. Logo percebi que teria que bolar uma estratégia.
 
@@ -43,9 +43,7 @@ Esses três pontos têm que ser levados em consideração e então escolher o id
 A forma Reduzida do método consiste em 4 abordagens:
 Flash-Cards :
 
-Faça um jogo de cartas simples. De um lado a palavra no idioma estrangeiro e no verso a tradução e pronúncia. Abaixo esta um exemplo das cartas que faço.
-
-________________imagem__________________
+Faça um jogo de cartas simples. De um lado a palavra no idioma estrangeiro e no verso a tradução e pronúncia. 
 
 Para fazer o jogo você pode listar as 100 palavras mais usadas em uma língua (pesquisando no google mesmo) e fazer 100 por semana . No meu caso adiciono 8 por dia, mas isso depende do ritmo de cada um.
 
@@ -70,7 +68,7 @@ Tente fazer isso quando estiver fazendo outras atividades diárias.
 
 Já fiz de duas formas:
 
-analisando cartoons (isso mesmo, desenhos animados), onde eu assistia sem legendas, tentava reconhecer alguma palavra, pausava, ia no google tradutor e tentava escrever a palavra que consegui escutar. Por exemplo, utilizo esse canal que possui diversos cartoons em árabe.
+Analisando cartoons (isso mesmo, desenhos animados), onde eu assistia sem legendas, tentava reconhecer alguma palavra, pausava, ia no google tradutor e tentava escrever a palavra que consegui escutar. Por exemplo, utilizo esse canal que possui diversos cartoons em árabe.
 
 É bem divertido e é um ótimo exercício para aprender a escutar a língua, isto é, saber distinguir as palavras e contextos.
 
