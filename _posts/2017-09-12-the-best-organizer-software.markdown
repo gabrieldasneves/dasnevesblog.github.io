@@ -7,16 +7,81 @@ img: metodo_linguas.jpeg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
-Church-key blog messenger bag, selfies umami man braid mlkshk. Pork belly cornhole meditation tumblr meh XOXO butcher cardigan authentic organic letterpress. Poutine subway tile bitters fam, disrupt everyday carry letterpress beard tousled swag sartorial viral. Retro af 3 wolf moon heirloom, pork belly man bun DIY chillwave. Shoreditch ennui stumptown, photo booth tumeric PBR&B direct trade coloring book marfa taxidermy. Gentrify brunch typewriter woke freegan. Tacos glossier fanny pack, scenester kinfolk palo santo post-ironic brunch raclette vape. Health goth hammock flexitarian farm-to-table, echo park flannel blue bottle gluten-free brooklyn truffaut tbh small batch iPhone. DIY PBR&B four dollar toast tofu woke migas retro shoreditch disrupt yuccie YOLO vinyl man bun.
+continuação de: artigo
 
-### Church-key blog messenger bag
+Quando passei um tempo no Egito tive contato com a língua árabe pela primeira vez e me encantei. Decidi que queria aprender essa língua. EU QUE LUTE! Uma língua com sons que eu nunca escutei, alfabeto totalmente diferente, escrita da direita para a esquerda, tudo! Tudo diferente. Logo percebi que teria que bolar uma estratégia.
 
-Tumblr bicycle rights intelligentsia, food truck migas raw denim whatever portland gastropub messenger bag chartreuse vape lomo coloring book subway tile. Yr pabst meggings tattooed four dollar toast. Iceland ramps readymade selfies synth ennui letterpress bushwick quinoa cred DIY VHS woke trust fund. Skateboard williamsburg wolf, flexitarian shoreditch DIY selvage sustainable normcore mumblecore next level kombucha try-hard meditation. Gentrify plaid microdosing, master cleanse ugh crucifix pop-up. Wolf bushwick street art tumeric. Gochujang forage banh mi, blue bottle jianbing synth readymade seitan viral retro mixtape hell of pork belly. Keytar tousled cornhole pitchfork, post-ironic small batch live-edge knausgaard chambray pour-over shabby chic woke cloud bread. Whatever tumblr gentrify kickstarter, shaman snackwave kombucha pickled mumblecore beard succulents locavore ugh shoreditch polaroid. Wayfarers crucifix tattooed twee. Yr listicle crucifix fingerstache farm-to-table. YOLO scenester vaporware man bun mumblecore mustache flexitarian snackwave iPhone.
+Cursos de árabe na minha cidade são extremamente caros, então teria que aprender sozinho. Mas eu nunca aprendi uma língua sozinho.
 
-Hella lo-fi banjo, disrupt tofu prism raclette. Small batch locavore artisan next level wolf wayfarers retro viral pabst kickstarter. Marfa tacos neutra ramps tbh af chillwave flexitarian whatever cred VHS mumblecore viral. Hell of retro vegan chambray tacos VHS four dollar toast tote bag. Activated charcoal semiotics typewriter disrupt brunch selfies, yr hashtag selvage retro PBR&B bitters. Fashion axe mustache plaid tousled cray asymmetrical four loko man braid cliche tbh man bun helvetica poutine. Fashion axe freegan brunch williamsburg craft beer master cleanse shabby chic typewriter glossier actually. Plaid tumblr hexagon neutra slow-carb mumblecore. Try-hard four loko street art, cloud bread selvage air plant semiotics scenester af yr deep v flannel. Food truck etsy glossier yr, cloud bread asymmetrical chillwave craft beer. Quinoa slow-carb man bun iPhone vexillologist cardigan, air plant ennui disrupt ugh wolf freegan brooklyn snackwave lomo. Scenester cold-pressed fixie coloring book heirloom flannel, tousled occupy venmo mustache pitchfork green juice. VHS neutra 8-bit roof party. Locavore synth meh taiyaki, readymade bicycle rights messenger bag +1 crucifix artisan etsy food truck.
+Comecei por diversos meios: Youtube, sites, filmes, etc. Eu aprendia, mas o processo era lento demais. Para ler e escrever era muito complicado.
 
-### Pour-over blue bottle woke listicle
+Nesse período dei um intervalo para aprender o Francês por motivos profissionais e uma parte dele foi sozinho, então pensei: AGORA VAI! agora sei como é o processo de aprender uma língua.
 
-Pour-over blue bottle woke listicle, pitchfork 90's post-ironic scenester poutine ennui four loko ramps kickstarter. Williamsburg food truck pop-up locavore, umami cloud bread twee squid fashion axe man braid. Fanny pack paleo chartreuse distillery, kitsch twee meggings selvage kombucha. Keffiyeh actually prism listicle. Taxidermy authentic iPhone migas vegan copper mug. Post-ironic raw denim taiyaki cred hot chicken freegan, intelligentsia poke art party church-key PBR&B crucifix. Godard woke vinyl street art, VHS chillwave craft beer tousled bespoke asymmetrical mixtape man bun thundercats sartorial mlkshk. Meggings heirloom XOXO gentrify try-hard stumptown. Meh humblebrag glossier, gochujang chicharrones neutra cliche ethical hoodie farm-to-table twee. Messenger bag offal pug bespoke, put a bird on it tote bag literally.
+Sentei em frente ao computador, pesquisei vários métodos de aprendizagem, observei alguns poliglotas e, enfim, montei o meu método. Diria que ele é uma salada de métodos adulterados.
 
-Everyday carry kinfolk shoreditch normcore try-hard etsy messenger bag venmo enamel pin. Try-hard fanny pack thundercats farm-to-table retro twee. Godard photo booth tofu 90's. Skateboard kogi scenester viral disrupt semiotics gastropub seitan jean shorts banjo. Humblebrag knausgaard waistcoat mixtape. Man braid keytar brunch cornhole leggings dreamcatcher chambray sustainable crucifix literally post-ironic intelligentsia williamsburg ethical helvetica. Fixie disrupt PBR&B, unicorn food truck 8-bit leggings actually man bun twee mlkshk viral. Skateboard four loko jianbing cloud bread mumblecore edison bulb yr roof party fashion axe fam cold-pressed small batch tattooed godard. Bushwick yuccie thundercats schlitz listicle skateboard quinoa. Gentrify hot chicken pop-up keytar master cleanse pork belly. Irony pitchfork la croix neutra freegan. Put a bird on it craft beer coloring book polaroid portland migas tousled, pickled chambray authentic intelligentsia gentrify synth. Letterpress tumblr wolf normcore selvage. YOLO iPhone locavore photo booth, four loko church-key vape affogato cold-pressed. Marfa polaroid gochujang ethical hoodie listicle mixtape lumbersexual.
+Vamos separar o processo em 3 campos diferentes: Escolha, Execução e Tempo.
+
+## Escolha
+
+O primeiro passo é escolher o idioma. Não é fácil, pois Existem 6 912 idiomas catalogados.
+
+Para escolher, lhe aconselho a considerar :
+
+    Paquera: Exatamente! Aquele idioma que você acha bonito, que já consegue se ver falando. O idioma daquele país ou região que você tanto sonha em conhecer/morar ou daquela cultura com a qual você aprendeu tanto. Esses sentimentos têm que ser considerados. Não aprenda por motivos de outras pessoas.
+
+    Objetivo: Com um objetivo e um prazo fica mais fácil. Conseguir determinada nota em um teste de nível, conseguir falar com aqueles seus amigos gringos na língua deles, conseguir se comunicar na sua viagem que esta chegando, etc.
+
+    Manutenção: Saiba logo que você sempre vai ter que ficar fazendo manutenções nesse idioma para evitar a "ferrugem", então é bom saber se é uma língua que exige muito trabalho para fazer manutenção e também estimar quanto tempo demoraria para aprende-la.
+
+Esses três pontos têm que ser levados em consideração e então escolher o idioma.
+
+
+
+ 
+## Execução
+
+A forma Reduzida do método consiste em 4 abordagens:
+Flash-Cards :
+
+Faça um jogo de cartas simples. De um lado a palavra no idioma estrangeiro e no verso a tradução e pronúncia. Abaixo esta um exemplo das cartas que faço.
+
+________________imagem__________________
+
+Para fazer o jogo você pode listar as 100 palavras mais usadas em uma língua (pesquisando no google mesmo) e fazer 100 por semana . No meu caso adiciono 8 por dia, mas isso depende do ritmo de cada um.
+
+Você pode pedir para alguém te mostrar a palavra para tentar adivinhar o significado ou fazer sozinho. Uma outra forma seria fazer com uma imagem e, no verso, a palavra. É uma ótima ferramenta para adquirir vocabulário.
+
+Existem aplicativos para esse tipo de exercício também como o Anki.
+
+### Verbos:
+
+    Tenha um caderno para verbos. Pense nos verbos que são essenciais para o seu dia a dia e conjugue-os no caderno. Faça também algumas conjugações todos os dias num rascunho.
+
+No mesmo caderno anote expressões, gírias ou frases úteis do idioma. Esse é tranquilo :)
+
+### Vlogs/musicas:
+
+    Escute musicas no idioma escolhido constantemente, assim você começa a reconhecer o vocabulário adquirido e escuta alguns novos, isso ajuda a se acostumar com a sonoridade;
+    Assista a vlogs de nativos sobre assuntos que lhe interessam. Pode ser viagens, moda, etc. 
+
+Tente fazer isso quando estiver fazendo outras atividades diárias.
+
+### Histórias:
+
+Já fiz de duas formas:
+
+analisando cartoons (isso mesmo, desenhos animados), onde eu assistia sem legendas, tentava reconhecer alguma palavra, pausava, ia no google tradutor e tentava escrever a palavra que consegui escutar. Por exemplo, utilizo esse canal que possui diversos cartoons em árabe.
+
+É bem divertido e é um ótimo exercício para aprender a escutar a língua, isto é, saber distinguir as palavras e contextos.
+
+A outra forma era assistindo histórias pequenas no Youtube, diálogos para inciantes ou contos conhecidos da cultura nativa e tentando descobrir o contexto enquanto aprendia algumas expressões.
+
+## Tempo
+
+O tempo para exercitar tudo isso sempre vai ser um problema. Então tente separar 45 minutos para cada atividade de forma espaçada, por exemplo: 45 de manhã, 45 depois do almoço, 45 no inicio da noite... de uma forma que você consiga fazer cada um sete vezes por semana.
+
+## Conclusão
+
+Essa é a forma que eu uso pois sei que funciona comigo. Estudei várias estratégias diferentes e encontrei a minha forma. Você pode tentar a minha, adaptá-la ou até mesmo criar uma que funcione para você, mas o ponto crucial sempre será o tempo que você vai investir praticando o método.
+
+Obrigado!
