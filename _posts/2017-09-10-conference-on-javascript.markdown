@@ -18,15 +18,14 @@ Isso mesmo, uma ferramenta **OPEN SOURCE** de blogs e sites para desenvolvedores
 
 ### Vantagens ao usar o Jekyll:
 
-Meu código no post fica bonitão
+    - Meu código no post fica bonitão
 
-Nenhum plugin do Wordpress pode superar isso.
-É leve e rápido
+    - Nenhum plugin do Wordpress pode superar isso. É leve e rápido
 
-Ele não usa banco de dados, quer um acesso mais rápido que um acesso estático?
-Eu tenho total controle sobre o template
+     -Ele não usa banco de dados, quer um acesso mais rápido que um acesso estático? 
+     Eu tenho total controle sobre o template
 
-O Github Pages tem suporte pra ele
+    - O Github Pages tem suporte pra ele
 
 Isso aí, é só commitar e o blog é atualizado, pra saber mais como colocar a sua página no ar gratuitamente usando o Github Pages sugiro esse artigo.
 
