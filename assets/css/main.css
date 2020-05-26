@@ -437,14 +437,14 @@ template {
 }
 
 .highlight {
-  background-color: #222831 ;
+  background-color: #231903 ;
   -webkit-border-radius: 3px;
           border-radius: 3px;
   margin: 0;
 }
 
 .highlighter-rouge {
-  color: #c1a57b;
+  color: #9dc6a7;
   font-weight: 400;
   
   -webkit-border-radius: 7px;
@@ -775,7 +775,7 @@ html {
 body {
   font-family: 'Lato', sans-serif;
   color: #515151;
-  background-color: #222831;
+  background-color: #231903;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -805,7 +805,7 @@ blockquote {
   padding-left: 1.1rem;
   margin-left: 1rem;
   font-style: italic;
-  color: #c1a57b;
+  color: #9dc6a7;
 }
 
 pre {
@@ -933,8 +933,8 @@ table tfoot td {
   width: 240px;
   height: 100%;
   padding: 20px 10px;
-  background-color: #222831;
-  border-color: #30475e;
+  background-color: #231903;
+  border-color: #231903;
   
 }
 
@@ -950,7 +950,7 @@ table tfoot td {
   -webkit-border-radius: 100%;
           border-radius: 100%;
   overflow: hidden;
-  background-color: #c1a57b;
+  background-color: #9dc6a7;
 }
 
 .about img {
@@ -977,7 +977,7 @@ table tfoot td {
   padding-bottom: 15px;
   font-size: 16px;
   text-transform: uppercase;
-  color: #c1a57b;
+  color: #9dc6a7;
   font-weight: 700;
 }
 
@@ -1000,7 +1000,7 @@ table tfoot td {
 .about p {
   font-size: 16px;
   margin: 0 0 10px;
-  color: #c1a57b;
+  color: #9dc6a7;
 }
 
 .content-box {
@@ -1026,7 +1026,7 @@ table tfoot td {
 
 .contact .contact-title {
   position: relative;
-  color: #c1a57b;
+  color: #9dc6a7;
   font-weight: 400;
   font-size: 12px;
   margin: 0 0 5px;
@@ -1081,7 +1081,7 @@ table tfoot td {
 }
 
 .contact ul li a {
-  color: #c1a57b;
+  color: #9dc6a7;
   display: block;
   padding: 5px;
   font-size: 18px;
@@ -1091,7 +1091,7 @@ table tfoot td {
 }
 
 .contact ul li a:hover {
-  color: #c1a57b;
+  color: #9dc6a7;
   -webkit-transform: scale(1.2);
       -ms-transform: scale(1.2);
           transform: scale(1.2);
@@ -1101,7 +1101,7 @@ footer .copyright {
   font-size: 14px;
   text-align: center;
   margin: 0;
-  color: #c1a57b;
+  color: #9dc6a7;
 }
 
 .post {
@@ -1130,15 +1130,15 @@ footer .copyright {
   transition: all .3s ease;
   -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
           box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
-  background-color: #ececec;
+  background-color: #d1f5d3;
 }
 
 .post:hover {
   -webkit-transform: translate(0px, -2px);
       -ms-transform: translate(0px, -2px);
           transform: translate(0px, -2px);
-  -webkit-box-shadow: 0 15px 45px -10px #30475e;
-          box-shadow: 0 15px 45px -10px #30475e;
+  -webkit-box-shadow: 0 15px 45px -10px #7d5e2a;
+          box-shadow: 0 15px 45px -10px #7d5e2a;
 }
 
 .post .post-thumbnail {
@@ -1170,7 +1170,7 @@ footer .copyright {
   font-family: 'PT Serif', serif;
   text-decoration: none;
   color: #263959;
-  background-color: #ececec;
+  background-color: #d1f5d3;
 }
 
 .post .post-content p {
@@ -1203,8 +1203,8 @@ a.newer-posts:hover {
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 .wrap-content {
   padding: 20px;
-  background-color: #ececec;
-  color: #222831;
+  background-color: #d1f5d3;
+  color: #231903;
 }
 
 .header-page {
@@ -1270,24 +1270,24 @@ a.newer-posts:hover {
           flex-wrap: wrap;
   padding-bottom: 30px;
   margin: 30px 0;
-  border-bottom: 1px solid #ececec;
+  border-bottom: 1px solid #d1f5d3;
 }
 
 .page-footer .page-share {
   margin-bottom: 10px;
   text-align: left;
-  background-color: #ececec;
+  background-color: #d1f5d3;
 }
 
 .page-footer .page-share a {
   display: inline-block;
   text-decoration: none;
-  background-color: #30475e;
+  background-color: #7d5e2a;
   border: 1px solid #ecf0f1;
   border-radius: 10px;
   padding: 5px 10px;
   margin-left: 5px;
-  color: #c1a57b;
+  color: #9dc6a7;
   font-size: 12px;
   -webkit-transition: background-color .3s;
   -o-transition: background-color .3s;
@@ -1300,7 +1300,7 @@ a.newer-posts:hover {
 
 .page-footer .page-share a:hover {
   background-color: #ecf0f1;
-  color: #30475e;
+  color: #7d5e2a;
 }
 
 .page-footer .page-tag a {
@@ -1308,10 +1308,10 @@ a.newer-posts:hover {
   font-size: 10px;
   padding: 5px 10px;
   margin-left: 5px;
-  color: #c1a57b;
+  color: #9dc6a7;
   text-transform: uppercase;
-  border: 1px solid #263959;
-  background-color: #30475e;
+  border: 1px solid #7d5e2a;
+  background-color: #7d5e2a;
   border-radius: 8px;
 }
 
@@ -1322,7 +1322,7 @@ a.newer-posts:hover {
 /* - - - - - - - - - - Tag Styles - - - - - - - - - - */
 .blog-tags {
   width: 100%;
-  background-color: #ececec;
+  background-color: #d1f5d3;
   padding: 0 20px 20px;
 }
 
