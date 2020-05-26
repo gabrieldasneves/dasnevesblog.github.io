@@ -6,8 +6,47 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: jekyll_git.jpg # Add image post (optional)
 tags: [Js, Conference] # add tag
 ---
-Jean shorts organic cornhole, gochujang post-ironic chicharrones authentic flexitarian viral PBR&B forage wolf. Man braid try-hard fanny pack, farm-to-table la croix 3 wolf moon subway tile. Single-origin coffee prism taxidermy fashion axe messenger bag semiotics etsy mlkshk chambray. Marfa lumbersexual meditation celiac. Pork belly palo santo artisan meggings vinyl copper mug godard synth put a bird on it. Cloud bread pop-up quinoa, raw denim meditation 8-bit slow-carb. Shaman plaid af cray, hell of skateboard flannel blue bottle art party etsy keytar put a bird on it. Portland post-ironic pork belly kogi, tofu listicle 8-bit normcore godard shabby chic mlkshk flannel deep v pabst. Pork belly kinfolk fingerstache lo-fi raclette. Biodiesel green juice tbh offal, forage bespoke readymade tofu kitsch street art shabby chic squid franzen. Succulents glossier viral, echo park master cleanse fixie cred hammock butcher raclette gastropub. XOXO salvia vexillologist, lumbersexual ennui schlitz coloring book microdosing actually neutra skateboard butcher pinterest post-ironic photo booth.
+    "Qual tecnologia vou usar para fazer um blog? Wordpress? naaaa... deve ter um jeito mais rápido e fácil para quem tem familiaridade com programação."
 
-Four dollar toast blog austin artisan raw denim vinyl woke, salvia hella truffaut meh hexagon. Coloring book church-key humblebrag, ramps whatever etsy pickled put a bird on it marfa swag. Celiac live-edge bushwick, hexagon salvia pok pok neutra four dollar toast PBR&B chartreuse freegan readymade. Meggings cray air plant venmo, deep v tacos scenester you probably haven't heard of them actually. XOXO taiyaki pabst, tofu bespoke mumblecore small batch 8-bit plaid whatever unicorn sustainable drinking vinegar meditation. Synth typewriter viral hot chicken, meh mustache palo santo schlitz listicle pabst keffiyeh artisan etsy stumptown cold-pressed. Occupy locavore cray irony. Chambray whatever vaporware keffiyeh heirloom vice. Single-origin coffee neutra iPhone lyft. Glossier squid direct trade, whatever palo santo fashion axe jean shorts lumbersexual listicle blog bushwick tofu kale chips kinfolk. Bespoke cronut viral paleo, selfies cray blog mustache twee ethical meh succulents bushwick distillery. Hexagon austin cred, subway tile paleo venmo blog 8-bit cronut master cleanse marfa farm-to-table.
+Esse foi meu pensamento, e logo fui pesquisar e encontrei algo no mínimo curioso.
 
-Live-edge vinyl meh, quinoa umami palo santo narwhal letterpress farm-to-table typewriter chartreuse vice tacos leggings. Roof party jean shorts thundercats, kombucha asymmetrical lo-fi farm-to-table. Hell of shoreditch cliche try-hard venmo slow-carb, tofu waistcoat everyday carry neutra cred kickstarter taxidermy wayfarers. Direct trade banh mi pug skateboard banjo edison bulb. Intelligentsia cliche quinoa synth umami. Trust fund four loko hoodie paleo cray tote bag slow-carb ennui. Williamsburg food truck intelligentsia trust fund. Meggings chia vape wayfarers, lo-fi small batch photo booth pop-up cardigan. Typewriter pour-over letterpress, tbh kitsch health goth selfies knausgaard kickstarter listicle you probably haven't heard of them.
+Vi uns exemplos de um código e, com simples comandos no terminal seguidos de alterações no template, era possível criar um site estático, um blog.
+
+Na hora eu disse É ISSO! **Jekyll**! um gerador de sites estáticos.
+
+Isso mesmo, uma ferramenta **OPEN SOURCE** de blogs e sites para desenvolvedores. Ou seja, estou escrevendo diretamente do Visual Studio no meu linux.
+
+### Vantagens ao usar o Jekyll:
+
+Meu código no post fica bonitão
+
+Nenhum plugin do Wordpress pode superar isso.
+É leve e rápido
+
+Ele não usa banco de dados, quer um acesso mais rápido que um acesso estático?
+Eu tenho total controle sobre o template
+
+O Github Pages tem suporte pra ele
+
+Isso aí, é só commitar e o blog é atualizado, pra saber mais como colocar a sua página no ar gratuitamente usando o Github Pages sugiro esse artigo.
+
+Eu gosto de controle, gosto de saber exatamente o que eu estou fazendo, e gosto de alterar e deixar as coisas do meu jeito, e o Jekyll é perfeito pra isso.
+
+
+
+Esse tema aqui peguei do Willian Justen e modifiquei um pouco pra deixar com a minha cara. Valeu Will!
+
+Com certeza tenho muito que aprender com essa ferramenta, ainda não tive tempo de olhar toda a documentação, mas se você é desenvolvedor e tem um blog, sugiro dar uma olhada nesse cara, não vai se arrepender.
+
+Eaí, curtiram o novo layout do blog? Comenta aí embaixo pra eu saber :)
+Links
+
+Alguns links úteis se você ficou interessado:
+
+    Curso gratuito “Criando sites estáticos com Jekyll”
+    Site oficial do Jekyll
+    Temas gratuitos para o Jekyll
+
+## Migração
+
+Para migrar seus posts do Wordpess para o Jekyll fiz esse tutorial explicando de um jeito simples como fazer isso com um script.

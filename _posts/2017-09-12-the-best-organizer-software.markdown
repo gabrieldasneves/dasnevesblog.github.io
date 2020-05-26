@@ -7,8 +7,6 @@ img: metodo_linguas.jpeg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
-Continuação de: artigo
-
 Quando passei um tempo no Egito tive contato com a língua árabe pela primeira vez e me encantei. Decidi que queria aprender essa língua. EU QUE LUTE! Uma língua com sons que eu nunca escutei, alfabeto totalmente diferente, escrita da direita para a esquerda, tudo! Tudo diferente. Logo percebi que teria que bolar uma estratégia.
 
 Cursos de árabe na minha cidade são extremamente caros, então teria que aprender sozinho. Mas eu nunca aprendi uma língua sozinho.
