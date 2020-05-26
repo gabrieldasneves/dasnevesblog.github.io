@@ -14,38 +14,25 @@ Vi uns exemplos de um código e, com simples comandos no terminal seguidos de al
 
 Na hora eu disse É ISSO! **Jekyll**! um gerador de sites estáticos.
 
-Isso mesmo, uma ferramenta **OPEN SOURCE** de blogs e sites para desenvolvedores. Ou seja, estou escrevendo diretamente do Visual Studio no meu linux.
+Isso mesmo, uma ferramenta **OPEN SOURCE** de blogs e sites para desenvolvedores. Ou seja, estou escrevendo diretamente do Visual Studio no meu linux. Basta escolher o template e fazer umas alterações nos arquivos Markdown.
+
+Já tem muita coisa disponível na comunidade DEV como templates adaptados ao Jekyll, etc.
 
 ### Vantagens ao usar o Jekyll:
 
-    - Meu código no post fica bonitão
+    - O código fica simples e limpo permitindo um maior controle sobre ele;
 
-    - Nenhum plugin do Wordpress pode superar isso. É leve e rápido
+    - Leve e rápido. Importando toda otimização do Ruby;
 
-     -Ele não usa banco de dados, quer um acesso mais rápido que um acesso estático? 
-     Eu tenho total controle sobre o template
+    - Não é necessário um banco de dados, é estático;
 
-    - O Github Pages tem suporte pra ele
+    - O Github Pages permite sua hospedagem.
 
-Isso aí, é só commitar e o blog é atualizado, pra saber mais como colocar a sua página no ar gratuitamente usando o Github Pages sugiro esse artigo.
+Isso mesmo, é só fazer o commit no GitHub e o seu site estará atualizado. Nesse Site você pode dar uma olhada de como funciona o GitHub Pages.
 
-Eu gosto de controle, gosto de saber exatamente o que eu estou fazendo, e gosto de alterar e deixar as coisas do meu jeito, e o Jekyll é perfeito pra isso.
+Parece bom demais pra ser verdade né?
 
+Ainda tenho muito que aprender com essa ferramenta, essa foi minha primeira experiência com ela, mas se você é desenvolvedor e pensa em fazer um blog, deve dar uma olhada nisso.
 
+Eaí? Comenta aí embaixo o que acharam ou o que sabem sobre o Jekyll :)
 
-Esse tema aqui peguei do Willian Justen e modifiquei um pouco pra deixar com a minha cara. Valeu Will!
-
-Com certeza tenho muito que aprender com essa ferramenta, ainda não tive tempo de olhar toda a documentação, mas se você é desenvolvedor e tem um blog, sugiro dar uma olhada nesse cara, não vai se arrepender.
-
-Eaí, curtiram o novo layout do blog? Comenta aí embaixo pra eu saber :)
-Links
-
-Alguns links úteis se você ficou interessado:
-
-    Curso gratuito “Criando sites estáticos com Jekyll”
-    Site oficial do Jekyll
-    Temas gratuitos para o Jekyll
-
-## Migração
-
-Para migrar seus posts do Wordpess para o Jekyll fiz esse tutorial explicando de um jeito simples como fazer isso com um script.
