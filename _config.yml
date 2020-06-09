@@ -1,8 +1,6 @@
 title: das Neves - Blog!
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Experiências, projetos, dicas, tecnologia, viagens e tudo o que faço e vejo de produtivo.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -16,10 +14,10 @@ social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: gabrieldasneves # add your Github handle
 social-linkedin: https://www.linkedin.com/in/gabriel-das-neves/
-social-email: galvesdasneves@gmail.com# add your Email address
+social-email: galvesdasneves@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-alguem # add your discus identifier
+discus-identifier: mr-somebody # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
