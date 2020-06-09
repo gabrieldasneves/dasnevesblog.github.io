@@ -3,7 +3,7 @@ layout: post
 title: Um bom motivo para aprender mais línguas
 date: 2019-06-09 13:16:20 +0300
 description: Um motivo que não seja o mercado de trabalho # Add post description (optional)
-img: linguas.jpg # Add image post (optional)
+img: linguas.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Idioms]
 ---
@@ -32,6 +32,8 @@ Conclusão: Aprendendo uma língua nova você está, na verdade, aprendendo uma 
 Há línguas que otimizam o aprendizado matemático, por exemplo. Em contraste, pode ser a mesma língua que não é tão boa para expressar sentimentos, e assim começa o caminho para adquirir pontos de visão diferentes para observar o mundo.
     
 Esses três pontos têm que ser levados em consideração e então escolher o idioma.
+
+Confira também o meu método de aprendizado de idiomas aqui.
 
 
 
