@@ -66,3 +66,4 @@ gulp.task('watch', function () {
 
 //  Default task
 gulp.task('default', ['browser-sync', 'watch']);
+
