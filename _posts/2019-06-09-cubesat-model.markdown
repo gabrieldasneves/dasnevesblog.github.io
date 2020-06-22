@@ -3,7 +3,7 @@ layout: post
 title: CubeSat, Uma corrida popular.
 date: 2019-05-25 00:01:00 +0300
 description: Uma introdução sobre o mercado aeroespacial, suas inovações e minha experiência no setor. # Add post description (optional)
-img: cubesat.jpeg # Add image post (optional)
+img: cubesat.jpg # Add image post (optional)
 tags: [aeroespacial, nanossatélites, tecnologia, inovação] # add tag
 ---
 
