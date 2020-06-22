@@ -22,22 +22,16 @@ Não foi fornecido texto alternativo para esta imagem
 
 ## Escolha
 
-O primeiro passo é escolher o idioma. Não é fácil, pois Existem 6 912 idiomas catalogados.
+O Cubesat é um modelo de nanossatélite padronizado onde cada unidade (U) mínima tem o tamanho de um cubo de 10cm³.O modelo surgiu em 1999 em uma parceria entre Stanford e CalPoli para desenvolverem um padrão que permitisse, aos estudantes universitários, acesso às tecnologias aeroespaciais
 
-Para escolher, lhe aconselho a considerar :
+O tempo de produção de um satélite tradicional era muito grande, logo o tempo de uma graduação não era suficiente para terminar o desenvolvimento e a pesquisa.
 
-    Paquera: Exatamente! Aquele idioma que você acha bonito, que já consegue se ver falando. O idioma daquele país ou região que você tanto sonha em conhecer/morar ou daquela cultura com a qual você aprendeu tanto. Esses sentimentos têm que ser considerados. Não aprenda por motivos de outras pessoas.
+A padronização dos subsistemas bem como das medidas, permitiram uma facilidade na produção. A padronização das interfaces de comunicações reduziu a complexidade do desenvolvimento. Hoje diversas universidades produzem pesquisas e inovações com Cubesats.
 
-    Objetivo: Com um objetivo e um prazo fica mais fácil. Conseguir determinada nota em um teste de nível, conseguir falar com aqueles seus amigos gringos na língua deles, conseguir se comunicar na sua viagem que esta chegando, etc.
-
-    Manutenção: Saiba logo que você sempre vai ter que ficar fazendo manutenções nesse idioma para evitar a "ferrugem", então é bom saber se é uma língua que exige muito trabalho para fazer manutenção e também estimar quanto tempo demoraria para aprende-la.
-
-Esses três pontos têm que ser levados em consideração e então escolher o idioma.
-
-
+O Brasil também entrou nessa corrida. Projetos como o Ubatuba-SAT, onde alunos de ensino médio desenvolveram um Cubesat, em 3 anos, que foi lançado ao espaço na sede do Inpe, mostram o quão acessível está a tecnologia aeroespacial. 
 
  
-## Execução
+![metodo](/assets/img/cubesat2.jpeg)
 
 A forma Reduzida do método consiste em 4 abordagens:
 Flash-Cards :
@@ -48,8 +42,8 @@ Para fazer o jogo você pode listar as 100 palavras mais usadas em uma língua (
 
 Você pode pedir para alguém te mostrar a palavra para tentar adivinhar o significado ou fazer sozinho. Uma outra forma seria fazer com uma imagem e, no verso, a palavra. É uma ótima ferramenta para adquirir vocabulário.
 
+![metodo](/assets/img/cubesat3.jpeg)
 
-![metodo](/assets/img/metodo_linguas_2.jpeg)
 Existem aplicativos para esse tipo de exercício também como o Anki.
 
 ### Verbos:
