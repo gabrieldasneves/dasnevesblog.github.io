@@ -18,9 +18,9 @@ Porém, esse cenário mudou de tal forma que os lançamentos comerciais são uma
 Com o avanço da micro eletrônica e da computação, tornou-se possível o desenvolvimento aeroespacial a baixos custo e tempo. Empresas privadas como SPACEX, ISIS, VIRGIN GALACTIC, entre outras, já atuam fortemente em órbita. Ainda parece muito longe da sua realidade? Apresentar-lhe-ei um amigo: o Cubesat.
 
 Quando falamos em construir satélites, já pensamos em um laboratório muito grande onde uma equipe de cientistas constroem um artefato tão grande quanto um ônibus, mas que tal se "montarmos" um satélite no seu quarto, em três anos, por menos que a metade do custo que você imaginou?
-Não foi fornecido texto alternativo para esta imagem
 
-![cubesat2](/assets/img/cubesat-2.jpeg)
+
+![cubesat2](/assets/img/cubesatpequeno.jpeg)
 
 O Cubesat é um modelo de nanossatélite padronizado onde cada unidade (U) mínima tem o tamanho de um cubo de 10cm³.O modelo surgiu em 1999 em uma parceria entre Stanford e CalPoli para desenvolverem um padrão que permitisse, aos estudantes universitários, acesso às tecnologias aeroespaciais
 
