@@ -37,35 +37,6 @@ Há diversos grupos e projetos nas academias brasileiras que produzem inovação
 
 Escrevi este breve artigo para mostrar-lhes que estamos em uma corrida que se passa no escuro e vai em direção ao "escuro", pois achamos que é tudo ficção científica ou está muito longe do nosso alcance. No desenvolvimento aeroespacial é necessário uma gama de conhecimentos, então todos podemos ajudar de alguma forma.
 
-### Verbos:
+![](https://gabrieldasneves.github.io/_site/assets/img/cubesat_eu.jpeg)
 
-    Tenha um caderno para verbos. Pense nos verbos que são essenciais para o seu dia a dia e conjugue-os no caderno. Faça também algumas conjugações todos os dias num rascunho.
-
-No mesmo caderno anote expressões, gírias ou frases úteis do idioma. Esse é tranquilo :)
-
-### Vlogs/musicas:
-
-    Escute musicas no idioma escolhido constantemente, assim você começa a reconhecer o vocabulário adquirido e escuta alguns novos, isso ajuda a se acostumar com a sonoridade;
-    Assista a vlogs de nativos sobre assuntos que lhe interessam. Pode ser viagens, moda, etc. 
-
-Tente fazer isso quando estiver fazendo outras atividades diárias.
-
-### Histórias:
-
-Já fiz de duas formas:
-
-Analisando cartoons (isso mesmo, desenhos animados), onde eu assistia sem legendas, tentava reconhecer alguma palavra, pausava, ia no google tradutor e tentava escrever a palavra que consegui escutar. Por exemplo, utilizo esse canal que possui diversos cartoons em árabe.
-
-É bem divertido e é um ótimo exercício para aprender a escutar a língua, isto é, saber distinguir as palavras e contextos.
-
-A outra forma era assistindo histórias pequenas no Youtube, diálogos para inciantes ou contos conhecidos da cultura nativa e tentando descobrir o contexto enquanto aprendia algumas expressões.
-
-## Tempo
-
-O tempo para exercitar tudo isso sempre vai ser um problema. Então tente separar 45 minutos para cada atividade de forma espaçada, por exemplo: 45 de manhã, 45 depois do almoço, 45 no inicio da noite... de uma forma que você consiga fazer cada um sete vezes por semana.
-
-## Conclusão
-
-Essa é a forma que eu uso pois sei que funciona comigo. Estudei várias estratégias diferentes e encontrei a minha forma. Você pode tentar a minha, adaptá-la ou até mesmo criar uma que funcione para você, mas o ponto crucial sempre será o tempo que você vai investir praticando o método.
-
-Obrigado!
+   Obrigado!
