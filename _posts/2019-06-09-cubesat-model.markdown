@@ -20,7 +20,7 @@ Com o avanço da micro eletrônica e da computação, tornou-se possível o dese
 Quando falamos em construir satélites, já pensamos em um laboratório muito grande onde uma equipe de cientistas constroem um artefato tão grande quanto um ônibus, mas que tal se "montarmos" um satélite no seu quarto, em três anos, por menos que a metade do custo que você imaginou?
 Não foi fornecido texto alternativo para esta imagem
 
-![](/assets/img/cubesat2.jpeg)
+![](http://localhost:4000/assets/img/cubesat2.jpeg)
 
 O Cubesat é um modelo de nanossatélite padronizado onde cada unidade (U) mínima tem o tamanho de um cubo de 10cm³.O modelo surgiu em 1999 em uma parceria entre Stanford e CalPoli para desenvolverem um padrão que permitisse, aos estudantes universitários, acesso às tecnologias aeroespaciais
 
@@ -31,7 +31,7 @@ A padronização dos subsistemas bem como das medidas, permitiram uma facilidade
 O Brasil também entrou nessa corrida. Projetos como o Ubatuba-SAT, onde alunos de ensino médio desenvolveram um Cubesat, em 3 anos, que foi lançado ao espaço na sede do Inpe, mostram o quão acessível está a tecnologia aeroespacial. 
 
  
-![](/assets/img/cubesat3.jpeg)
+![](http://localhost:4000/assets/img/cubesat3.jpeg)
 
 Há diversos grupos e projetos nas academias brasileiras que produzem inovação e conhecimento nessa área. Tive a honra de trabalhar no projeto SACODE da Universidade Federal do Ceará, no LESC, onde foi desenvolvido um computador de Bordo para uso comercial (Open-OBC) para Cubesats, e onde uma equipe indômita trabalha para contribuir com o desenvolvimento aeroespacial brasileiro.
 
