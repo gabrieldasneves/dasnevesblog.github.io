@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Aplicando o Surf na vida
+title: Jornada do Herói
 date: 2019-05-24 00:00:00 +0300
-description: Como esse esporte incrível influenciou minha vida profissional e pessoal? 
-img: eu_surf.jpeg # Add image post (optional)
-tags: [Esportes, Estilo de vida] # add tag
+description: O caminho para contar uma história incrível! 
+img: hero_1.jpeg # Add image post (optional)
+tags: [storytelling, conhecimentosgerais, softskills] # add tag
 ---
 >Como esse esporte incrível influenciou minha vida profissional e pessoal? 
 
