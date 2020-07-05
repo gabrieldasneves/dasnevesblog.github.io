@@ -1495,3 +1495,6 @@ a.newer-posts:hover {
     font-size: 21px;
   }
 }
+
+img[alt=us] { border-radius: 8px;}
+
