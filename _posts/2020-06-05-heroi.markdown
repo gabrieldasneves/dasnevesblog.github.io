@@ -1,19 +1,24 @@
 ---
 layout: post
-title: Jornada do Herói
-date: 2019-05-24 00:00:00 +0300
+title: A jornada do Herói
+date: 2019-06-05 00:00:00 +0300
 description: O caminho para contar uma história incrível! 
-img: hero_1.jpeg # Add image post (optional)
+img: hero_1.jpg # Add image post (optional)
 tags: [storytelling, conhecimentosgerais, softskills] # add tag
 ---
->Como esse esporte incrível influenciou minha vida profissional e pessoal? 
+>*O caminho para contar uma história incrível!*
 
-Faz alguns anos que comprei minha primeira prancha, uma 5.9 da Flora, UM FOGUETE! Porém, não fazia ideia de como ficar em pé naquilo. Tudo bem, já tinha a experiência do skate e os meus amigos já tinham um pé na cultura do Surf, mas agora era só eu, a prancha e o mar.
+&nbsp;
 
-Cheguei na praia. Água até a cintura, coloquei a prancha na água ao meu lado. "Tá, mas e agora?", olhei para o lado tinha um surfista entrando também. "Pronto, vou imitar ele". Desde caldos à decepção de não conseguir pegar nenhuma onda, o Surf me ensinou muito e tem influência em muitos fatores na área profissional também, se liga: 
+Foi em volta de fogueiras que nossos antepassados se reuniam para contar histórias, relatos, lendas. Foi em diversas tendas no dia que antecipava a batalha que os soldados contavam feitos de guerras de seus amigos. Foi em calçadas pequenas que, sob a luz de um lampião e no ritmo da cadeira de balanço, a vovó contava aventuras de sua juventude para seus netos.
 
+A arte de contar histórias acompanhou a raça humana ao longo dos tempos transmitindo crenças, ensinamentos, diversão, medo e inspiração. 
 
-# Pessoal
+Não se engane! A arte de contar uma boa história inda é muito importante.
+
+![us](/assets/img/us.jpeg)
+
+# Storytelling
 
 ### Paciência
 
