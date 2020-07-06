@@ -1210,8 +1210,6 @@ a.newer-posts:hover {
   color: #231903;
 }
 
-
-
 .header-page {
   text-align: center;
   margin: 10px 0;
@@ -1498,7 +1496,5 @@ a.newer-posts:hover {
   }
 }
 
-img[alt=us] { border-radius: 8px; align-items: center; justify-content: center; }
-
-
+img[alt=us] { border-radius: 8px;}
 
