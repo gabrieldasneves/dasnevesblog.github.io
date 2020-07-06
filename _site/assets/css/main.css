@@ -801,14 +801,12 @@ img + em {
 }
 
 blockquote {
-  border-radius: 8px;
+  border-left: 5px solid #231903;
   background-color: #9dc6a7;
   padding-left: 1.1rem;
   margin-left: 1rem;
   font-style: italic;
-  font-weight: bold;
   color: #7d5e2a;
-  text-align: center;
 }
 
 pre {
@@ -1498,5 +1496,5 @@ a.newer-posts:hover {
   }
 }
 
-img[alt=us] { border-radius: 8px;}
+img[alt=us] { border-radius: 8px; align-items: center;}
 
