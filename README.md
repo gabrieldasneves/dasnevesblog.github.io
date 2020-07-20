@@ -12,26 +12,28 @@ Soon, I went after options to develop the Blog and discovered Jekyll. A Ruby on 
 
 There is still a lot to learn in this tool.
 
+## Requirements
+To run it with a code editor (E.G.: VS-code), you should have:
 
-## Build status
-Build status of continus integration i.e. travis, appveyor etc. Ex. - 
 
-[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
+  - Ruby version 2.5.0 or above, including all development headers (ruby version can be checked by running ruby -v)
+  - RubyGems (which you can check by running gem -v)
+  - GCC and Make (in case your system doesn’t have them installed, which you can check by running gcc -v,g++ -v and make -v in your system’s command line interface)
 
-## Code style
-If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
 
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
- 
-## Screenshots
-Include logo/demo screenshot etc.
+## Installing
+Before we install Jekyll, we need to make sure we have all the required dependencies.
 
-## Tech/framework used
-Ex. -
+<b>sudo apt-get install ruby-full build-essential zlib1g-dev</b>
 
-<b>Built with</b>
-- [Electron](https://electron.atom.io)
+<b>echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc</b>
+
+then finally install it:
+
+<b>gem install jekyll bundler</b>
 
 ## Features
 What makes your project stand out?
