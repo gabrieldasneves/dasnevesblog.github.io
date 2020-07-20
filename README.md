@@ -1,8 +1,17 @@
-## Project title
-A little info about your project and/ or overview that explains **what** the project is about.
+## My personal Blog
+This project is about the usage of **Jekyll** with **Github Pages**.
 
 ## Motivation
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+I apreciate to write about the things I find interesting and important but, not everything should be written in a network geared towards the professional area, right?
+
+I went after platforms like Medium and I felt that something was bothering me.
+
+"I know how to code, so I could make a blog by myself, I don't need to rely on a platform and I can even choose the style I want!"
+
+Soon, I went after options to develop the Blog and discovered Jekyll. A Ruby on Rails-based tool for developing static websites.
+
+There is still a lot to learn in this tool.
+
 
 ## Build status
 Build status of continus integration i.e. travis, appveyor etc. Ex. - 
