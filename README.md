@@ -1,7 +1,9 @@
-## My personal Blog
+## My personal Blog : https://gabrieldasneves.github.io/
+
 This project is about the usage of **Jekyll** with **Github Pages**.
 
 ## Motivation
+
 I apreciate to write about the things I find interesting and important but, not everything should be written in a network geared towards the professional area, right?
 
 I went after platforms like Medium and I felt that something was bothering me.
@@ -13,6 +15,7 @@ Soon, I went after options to develop the Blog and discovered Jekyll. A Ruby on 
 There is still a lot to learn in this tool.
 
 ## Requirements
+
 To run it with a code editor (E.G.: VS-code), you should have:
 
 
@@ -22,6 +25,7 @@ To run it with a code editor (E.G.: VS-code), you should have:
 
 
 ## Installing
+
 Before we install Jekyll, we need to make sure we have all the required dependencies.
 
 <b>sudo apt-get install ruby-full build-essential zlib1g-dev</b>
@@ -41,9 +45,6 @@ What makes your project stand out?
 ## Code Example
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
-## Installation
-Provide step by step series of examples and explanations about how to get a development env running.
-
 ## API Reference
 
 Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
@@ -54,16 +55,12 @@ Describe and show how to run the tests with code examples.
 ## How to use?
 If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
 
-## Contribute
-
-Let people know how they can contribute into your project. A [contributing guideline](https://github.com/zulip/zulip-electron/blob/master/CONTRIBUTING.md) will be a big plus.
-
 ## Credits
 Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project. 
 
 #### Anything else that seems useful
 
-## License
-A short snippet describing the license (MIT, Apache etc)
+## That's it!
 
-MIT © [Yourname]()
+
+© [Gabriel das Neves](https://gabrieldasneves.github.io/)
