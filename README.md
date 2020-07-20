@@ -23,7 +23,6 @@ To run it with a code editor (E.G.: VS-code), you should have:
   - RubyGems (which you can check by running gem -v)
   - GCC and Make (in case your system doesn’t have them installed, which you can check by running gcc -v,g++ -v and make -v in your system’s command line interface)
 
-
 ## Installing
 
 Before we install Jekyll, we need to make sure we have all the required dependencies.
@@ -40,27 +39,19 @@ then finally install it:
 <b>gem install jekyll bundler</b>
 
 ## Features
-What makes your project stand out?
-
-## Code Example
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
-
-## API Reference
-
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
-
-## Tests
-Describe and show how to run the tests with code examples.
+It is hostted on GitHub Pages, more information [here](https://pages.github.com/)
 
 ## How to use?
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
+
+To open it using an editor you should open your terminal, go into the projects folder and run:
+
+<b>bundle exec jekyll serve</b>
+
+Then browse to http://localhost:4000
 
 ## Credits
-Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project. 
-
-#### Anything else that seems useful
+Proper credits given to https://github.com/willianjusten that has inspired me to build it. 
 
 ## That's it!
-
 
 © [Gabriel das Neves](https://gabrieldasneves.github.io/)
